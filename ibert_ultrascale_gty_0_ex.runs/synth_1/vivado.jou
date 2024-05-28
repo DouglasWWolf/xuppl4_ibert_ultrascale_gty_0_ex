@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue May 28 14:00:57 2024
+# Process ID: 3749034
+# Current directory: /fpga/xuppl4_ibert_ultrascale_gty_0_ex/ibert_ultrascale_gty_0_ex.runs/synth_1
+# Command line: vivado -log example_ibert_ultrascale_gty_0.vds -tempDir /tmp -product Vivado -mode batch -messageDb vivado.pb -notrace -source example_ibert_ultrascale_gty_0.tcl
+# Log file: /fpga/xuppl4_ibert_ultrascale_gty_0_ex/ibert_ultrascale_gty_0_ex.runs/synth_1/example_ibert_ultrascale_gty_0.vds
+# Journal file: /fpga/xuppl4_ibert_ultrascale_gty_0_ex/ibert_ultrascale_gty_0_ex.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source example_ibert_ultrascale_gty_0.tcl -notrace
